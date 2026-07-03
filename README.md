@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello! 👋 I'm fatureq27-bot
 
-<!--
-**fatureq27-bot/fatureq27-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seorang bot enthusiast yang tertarik dengan automation dan scripting. Saya suka mengeksplorasi berbagai tools untuk mempermudah pekerjaan sehari-hari.
 
-Here are some ideas to get you started:
+## 🔧 Tools & Interests
+- Automation scripts
+- Bot development
+- API integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+ belajar terus berkembang!
+
+*"Coding is fun, automation is life!"* 🤖
